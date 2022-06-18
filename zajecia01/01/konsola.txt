@@ -1,0 +1,114 @@
+Last login: Sat Jun 18 09:28:02 on ttys000
+alekgruszczynski ~ % python3
+Python 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 4 + 12
+16
+>>> 5 / 7
+0.7142857142857143
+>>> 10 ** 3
+1000
+>>> 100 % 7
+2
+>>> 10 % 3
+1
+>>> 9 / 3 * 3
+9.0
+>>> 9 / (3 * 3)
+1.0
+>>> type(1)
+<class 'int'>
+>>> type(1.0)
+<class 'float'>
+>>> 'dzień dobry'
+'dzień dobry'
+>>> "hej"
+'hej'
+>>> "don't do this"
+"don't do this"
+>>> type('hej')
+<class 'str'>
+>>> 13 + 100
+113
+>>> 'hej' + 1
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can only concatenate str (not "int") to str
+>>> 'dzień' + 'dobry'
+'dzieńdobry'
+>>> 'dzień' + ' dobry'
+'dzień dobry'
+>>> ''
+''
+>>> type('')
+<class 'str'>
+>>> type(' ')
+<class 'str'>
+>>> tekst = 'dzień dobry'
+>>> tekst
+'dzień dobry'
+>>> tekst + tekst
+'dzień dobrydzień dobry'
+>>> tekst + ' ' + tekst
+'dzień dobry dzień dobry'
+>>> liczba = 13
+>>> liczba
+13
+>>> liczba * 2
+26
+>>> liczba + liczba
+26
+>>> tekst = 123
+>>> tekst * 2
+246
+>>> wynik = 4 + 12
+>>> wynik
+16
+>>> TEKST = 'hej'
+>>> TEKST
+'hej'
+>>> wynik_działania = 16 * 16
+>>> wynik
+wynik            wynik_działania
+>>> wynik_działania
+256
+>>> type(TEKST)
+<class 'str'>
+>>> dir()
+['TEKST', '__annotations__', '__builtins__', '__doc__', '__loader__', '__name__', '__package__', '__spec__', 'liczba', 'tekst', 'wynik', 'wynik_działania']
+>>> del tekst
+>>> dir()
+['TEKST', '__annotations__', '__builtins__', '__doc__', '__loader__', '__name__', '__package__', '__spec__', 'liczba', 'wynik', 'wynik_działania']
+>>> tekst + '!'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'tekst' is not defined
+>>> dystans = 85
+>>> spalanie_na_100 = 8.5
+>>> cena = 7.94
+>>> koszt = spalanie_na_100 / 100 * cena * dystans
+>>> koszt
+57.3665
+>>> koszt=spalanie_na_100/100*cena*dystans
+>>> koszt = spalanie_na_100 / 100 * cena * dystans
+>>> koszt
+57.3665
+>>> cena = 7.51
+>>> koszt = spalanie_na_100 / 100 * cena * dystans
+>>> koszt
+54.25975
+>>> exit()
+alekgruszczynski ~ % python3
+Python 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> dir()
+['__annotations__', '__builtins__', '__doc__', '__loader__', '__name__', '__package__', '__spec__']
+>>> exit()
+alekgruszczynski ~ % cd Desktop
+alekgruszczynski ~/Desktop % python3
+Python 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit()
+alekgruszczynski ~/Desktop % python3 droga.py
+alekgruszczynski ~/Desktop % python3 droga.py
+57.3665
