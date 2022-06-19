@@ -1,4 +1,4 @@
-# zaczynamy z listą imona
+# zaczynamy z listą imiona
 imiona = ['Artur', 'Barbara', 'Czesław']
 
 # wchodząc do pętli, program:
