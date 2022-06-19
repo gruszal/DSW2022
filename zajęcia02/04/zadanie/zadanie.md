@@ -5,7 +5,6 @@ Na podstawie pliku `szablon.py` napisz skrypt, który:
 - wczyta z klawiatury dowolną ilość wyrazów oddzielonych przecinkami
 - dla każdego wyrazu mającego chociaż jeden znak wypisze na ekran komunikat o ilości znaków w tym wyrazie
 - wyrazy mogą być wpisane z nadmiarowymi spacjami, których trzeba się pozbyć
--
 
 ## Przykładowe uruchomienie:
 
