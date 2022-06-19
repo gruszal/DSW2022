@@ -3,14 +3,14 @@ def dodaj_trzy(liczba):
     return wynik
 
 
-liczba1 = 11
-nowa_liczba = dodaj_trzy(liczba1)
+a = 11
+nowa_liczba = dodaj_trzy(a)
 print(nowa_liczba)
 
-liczba2 = 127
-nowa_liczba2 = dodaj_trzy(liczba2)
+b = 127
+nowa_liczba2 = dodaj_trzy(b)
 print(nowa_liczba2)
 
-liczba3 = -100
-nowa_liczba3 = dodaj_trzy(liczba3)
+c = -100
+nowa_liczba3 = dodaj_trzy(c)
 print(nowa_liczba3)
