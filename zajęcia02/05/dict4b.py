@@ -1,6 +1,6 @@
 osoba = {'imie': 'Guido',
          'nazwisko': 'van Rossum',
-         'rok_urodzenia': 1906}
+         'rok_urodzenia': 1956}
 
 zawod = osoba.get('zawod')  # to zadziała, jeśli nie ma takiego klucza, dostaniemy None
 print(zawod)

@@ -1,4 +1,4 @@
-osoba = {}
+osoba = {}  # tworzymy pusty słownik
 osoba['imie'] = 'Guido'
 osoba['nazwisko'] = 'van Rossum'
 osoba['rok_urodzenia'] = 1906
