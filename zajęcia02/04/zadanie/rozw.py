@@ -8,4 +8,4 @@ for wyraz in lista:
     wyraz = wyraz.strip()
 
     if wyraz:
-        print(f'Wyraz "{wyraz}" ma długość {len(wyraz)}')
+        print(f"Wyraz \"{wyraz}\" ma długość {len(wyraz)}")
