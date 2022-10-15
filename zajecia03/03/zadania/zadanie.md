@@ -1,6 +1,14 @@
-# Zadanie 02
+# Zadanie
+## Etap 1
+Do rozwiązania zadania użyj pliku `zadanie01_szablon.py`.
 
-Używając jako szablonu rozwiązanego zadania `zadanie01.py` napisz skrypt, który:
+Mając listę dziesięciu producentów najsłynniejszych samochodów rajdowych, napisz skrypt który:
+- wczyta z klawiatury indeks listy
+- wypisze na ekran nazwę wybranego producenta
+
+## Etap 2
+
+Zmodyfikuj powyższy skrypt, aby:
 - w przypadku wprowadzenia przez użytkownika wartości, której nie da się przerobić na typ `int`, poinformuje o tym użytkownika i zakończy działanie.
 - w przypadku wprowadzenia przez użytkownika wartości, która nie jest poprawnym indeksem, również poinformuje o tym fakcie i zakończy działanie.
 - w przypadku podania prawidłowego indeksu program wypisze na ekran nazwę wybranego producenta.

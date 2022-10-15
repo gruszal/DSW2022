@@ -1,4 +1,4 @@
-nazwa_pliku = 'dane2.txt'
+nazwa_pliku = 'dane3.txt'
 
 plik = open(nazwa_pliku, mode='a', encoding='utf-8')
 
