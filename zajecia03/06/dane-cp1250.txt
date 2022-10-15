@@ -1,0 +1,3 @@
+To jest pierwsza linia
+to jest piêkna, druga linia
+a to jest KONIEC.
