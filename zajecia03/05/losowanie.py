@@ -1,3 +1,4 @@
+# https://docs.python.org/3/library/random.html
 from random import randint, randrange
 
 # wybiera jedną liczbę z przedziału
