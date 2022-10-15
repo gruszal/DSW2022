@@ -6,7 +6,7 @@ Napisz funkcję `rysuj_prostokat()`, która:
 - będzie przyjmować jeden argument opcjonalny: `znak`, domyślnie ustawiony na 'X',
 - dla zadanych wartości `a` i `b` narysuje na ekranie prostokąt o bokach długości `a` i `b` używając znaku 'X' jeśli nie został przekazany inny.
 
-## Przykład dla a = 3 i b = 5
+## Przykład dla `rysuj_prostokat(3, 5)`
 ```
 XXXXX
 XXXXX
