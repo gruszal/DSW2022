@@ -2,7 +2,7 @@
 Plik `geometria.py`, zawiera wcześniej napisane funkcje, których __nie należy__ modyfikować. Przeczytaj ich definicję.
 
 ## Etap 1
-Stwórz plik `rozwiazanie1.py`, który zaimportuje funkcje z powyższego pliku i stałą `WARTOSC_PI`. Następnie:
+Stwórz plik `rozwiazanie1.py`, który zaimportuje funkcje z powyższego pliku. Następnie:
 - Obliczy pole prostokąta o bokach `7.5` i `8.3` i wypisze na ekran komunikat.
 ```
 Pole prostokąta wynosi (tutaj obliczone pole).
