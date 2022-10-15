@@ -8,7 +8,7 @@ try:
 except KeyError:
     print('Samochód nie ma wpisanego rocznika!')
 else:
-    # blok 'else' jest wywoływany gdy spodziewany wyjątek NIE NASTĄPI
+    # blok 'else' jest wywoływany, gdy spodziewany wyjątek NIE NASTĄPI
     print('Rocznik samochodu to:', rok)
 finally:
     print('Ten blok wykona się ZAWSZE')

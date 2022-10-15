@@ -7,3 +7,6 @@ except ZeroDivisionError:
     print("Ktoś próbował dzielić przez zero, więc zamiast tego wypisuję ten komunikat")
 
 print('Program działa dalej')
+
+# Hierarchia wyjątków:
+# https://docs.python.org/3/library/exceptions.html#exception-hierarchy
