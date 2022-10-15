@@ -10,3 +10,5 @@ except KeyError:
 else:
     # blok 'else' jest wywoływany gdy spodziewany wyjątek NIE NASTĄPI
     print('Rocznik samochodu to:', rok)
+finally:
+    print('Ten blok wykona się ZAWSZE')
