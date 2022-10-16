@@ -10,11 +10,11 @@ class Prostokat:
         return self._bok_a * self._bok_b
 
     def powieksz_boki(self, a=0, b=0):
-        nowy_a = self.bok_a + a
-        nowy_b = self.bok_b + b
+        nowy_a = self._bok_a + a
+        nowy_b = self._bok_b + b
         if nowy_a > 0 and nowy_b > 0:
-            self.bok_a = nowy_a
-            self.bok_b = nowy_b
+            self._bok_a = nowy_a
+            self._bok_b = nowy_b
         else:
             raise ValueError('Prostokat nie może mieć ujemnych boków!')
 
