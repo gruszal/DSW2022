@@ -1,6 +1,6 @@
 import json
 
-slownik = {1: 'jeden', 2: 'dwa'}
+slownik = {1: 'jeden', 2: 'dwa'}  # UWAGA: słownik, który jako klucze ma obiekty typu 'int'
 
 print('slownik:', slownik)
 print(type(slownik))
