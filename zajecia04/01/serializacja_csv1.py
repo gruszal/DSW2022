@@ -6,6 +6,7 @@ print(warzywa_i_owoce)
 
 plik = open('warzywa_i_owoce.csv', 'w')
 klucze = warzywa_i_owoce[0].keys()  # wyciągamy wszystkie klucze z pierwszego słownika na liście
+# klucze = ['nazwa', 'cena', 'czy_na_sztuki']  # możemy również podać nagłówki ręcznie
 
 print(klucze)
 

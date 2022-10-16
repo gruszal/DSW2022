@@ -12,3 +12,5 @@ print(slodycze)
 nazwa_pierwszego_art = slodycze[1]['nazwa']
 
 print(nazwa_pierwszego_art)
+
+# UWAGA: Wszystkie wartości stały się stringami!
