@@ -20,3 +20,8 @@ Napisz skrypt pythonowy, który zamodeluje grę w "wisielca"/"koło fortuny". U�
   - (rozszerzenie) Nadaj poziomy trudności dla haseł i wybieraj odpowiednie dla wybranego poziomu trudności.
 - Zmierz czas całej rozgrywki i średni czas każdej próby zgadnięcia litery.
 - Wynik każdej rozgrywki zapisuj do pliku tekstowego. Każda linia to jedna rozgrywka. W zapisie musi się znaleźć: rezultat, ilość prób, data (może być więcej informacji).
+
+### Uwagi
+- Oddając zadanie, proszę o opisanie, które z dodatkowych funkcjonalności zostały wybrane.
+- Jeśli użyte zostały zewnętrzne moduły, proszę tę informację dopisać (nie dotyczy wbudowanych modułów)
+- W przypadku wczytywania haseł z pliku, do rozwiązania należy dołączyć również ten plik.
