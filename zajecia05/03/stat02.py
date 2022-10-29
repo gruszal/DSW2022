@@ -1,5 +1,5 @@
 # https://docs.python.org/3/library/statistics.html
-from statistics import NormalDist, stdev, mode, median
+from statistics import NormalDist, stdev, median
 
 a = [10, 5, 9, 7, 1, 1]
 
