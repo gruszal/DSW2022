@@ -6,6 +6,7 @@ a = np.array(lista)
 print(a)
 
 print(a[0, 2], '\n')  # znak '\n' dodaje dodatkową linię dla czytelności
+print(a[0][2], '\n')  # znak '\n' dodaje dodatkową linię dla czytelności
 
 print(a[1:], '\n')
 
